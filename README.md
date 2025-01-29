@@ -1,4 +1,4 @@
-# Create-Your-Own-Repository
+# Create-Your-Own-Image-Classifier
 
 Overview:
 Train a deep learning model to classify 102 species of flowers, and use it in applications like a smartphone app that identifies flowers from photos.
